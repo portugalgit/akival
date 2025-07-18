@@ -1,3 +1,3 @@
 <?php
 
-echo "config";
+echo "ola";
