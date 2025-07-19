@@ -3,7 +3,7 @@
 class Students extends Controller
 {
 
-    function __construct()
+    function index($id = null)
     {
         echo "estudantes"; 
     }
