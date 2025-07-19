@@ -1,5 +1,5 @@
 <?php
 
-include ("../private/core/app.php");
+include ("../private/core/autoload.php");
 
 $app = new App();
